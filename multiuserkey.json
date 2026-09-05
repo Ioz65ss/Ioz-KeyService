@@ -1,8 +1,8 @@
 [
-  {
-    "key": "HARSH-XMODS#V6-2",
-    "max_devices": "100",
-    "expiry": "15-09-2030",
-    "allow_offline": false
-  }
+    {
+        "key": "HARSH-XMODS#V6-2",
+        "max_devices": "100",
+        "expiry": "15-09-2030",
+        "allow_offline": false
+    }
 ]
