@@ -10,5 +10,11 @@
         "key": "BANTITHEGR9",
         "expirydate": "01-01-2036",
         "Allowoffline": false
+    },
+    {
+        "device_id": "BDD062467999860E",
+        "key": "BANTITHEGR9",
+        "expirydate": "01-01-2036",
+        "Allowoffline": false
     }
 ]
